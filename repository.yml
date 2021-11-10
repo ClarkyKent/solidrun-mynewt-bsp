@@ -46,11 +46,11 @@ repo.deps:
         repo: mynewt-nimble
         vers:
             master: 0-dev
-            mynewt_1_9_0_tag: 1.4.0
+            mynewt_1_5_0_tag: 1.4.0
     apache-mynewt-core:
         type: github
         user: apache
         repo: mynewt-core
         vers:
             master: 0-dev
-            mynewt_1_9_0_tag: 1.9.0
+            mynewt_1_5_0_tag: 1.9.0
